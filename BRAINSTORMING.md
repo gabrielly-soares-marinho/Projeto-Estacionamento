@@ -1,8 +1,8 @@
-# Projeto Estacionamento — Problema e Brainstorming
+# Projeto Estacionamento — Problemas e Brainstorming
 
 ---
 
-## Problema Principal
+## Problemas Principais
 - Não há controle de entrada e saída de veículos.  
 - Superlotação → carros amassados/arranhados → clientes reclamando.  
 - Manobristas não têm noção de quantas vagas estão disponíveis.  
