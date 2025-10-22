@@ -54,6 +54,6 @@ facilitando a identificação de gargalos e a proposição de **soluções tecno
 
 ![Diagrama BPMN - Estacionamento](imagens/bpmn_estacionamento.png)
 
-<p align="center">
+<p>
   <img src="bpmn_estacionamento.png" alt="Diagrama BPMN - Estacionamento" width="600">
 </p>
