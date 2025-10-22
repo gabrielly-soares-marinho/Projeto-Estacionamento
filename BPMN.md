@@ -49,7 +49,6 @@ facilitando a identificação de gargalos e a proposição de **soluções tecno
 
 ---
 
-📌 **Ferramenta utilizada:** Bizagi Modeler  
 📅 **Tema:** Modelagem de Processos com BPMN  
 
 
