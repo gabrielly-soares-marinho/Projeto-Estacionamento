@@ -62,7 +62,7 @@ Sua opinião ajudará a definir as funcionalidades prioritárias para o desenvol
 **Link do formulário original:**  
 [Formulário Google](https://docs.google.com/forms/d/e/1FAIpQLSe8F_qTcznWWbsiHnR-TM631YXwa139Uxt684N2GqrfGR-Hug/viewform)
 
-![Diagrama BPMN - Estacionamento](imagens/REQUISITOS.png)
+!(imagens/REQUISITOS.png)
 
 <p>
   <img src="REQUISITOS.png" alt="Diagrama BPMN - Estacionamento" width="600">
