@@ -65,5 +65,5 @@ Sua opinião ajudará a definir as funcionalidades prioritárias para o desenvol
 ![Diagrama BPMN - Estacionamento](imagens/REQUISITOS.png)
 
 <p>
-  <img src="bpmn_estacionamento.png" alt="Diagrama BPMN - Estacionamento" width="600">
+  <img src="REQUISITOS.png" alt="Diagrama BPMN - Estacionamento" width="600">
 </p>
