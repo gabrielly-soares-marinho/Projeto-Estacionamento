@@ -52,8 +52,7 @@ facilitando a identificação de gargalos e a proposição de **soluções tecno
 📅 **Tema:** Modelagem de Processos com BPMN  
 
 
-![Diagrama BPMN - Estacionamento](imagens/BPMN_ESTACIONAMENTO.png)
-
+**Diagrama BPMN - Estacionamento**
 <p>
   <img src="bpmn_estacionamento.png" alt="Diagrama BPMN - Estacionamento" width="600">
 </p>
