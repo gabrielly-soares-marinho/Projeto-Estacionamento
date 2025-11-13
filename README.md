@@ -10,6 +10,8 @@
 
 ---
 
+## LINK Trello: https://trello.com/b/prSoUozY/estacionamento-melhorias-de-gest%C3%A3o?completedInviteSignup=1
+
 ## 📌 1. Justificativa do Projeto
 O projeto de modernização do estacionamento tem como objetivo oferecer maior conforto, praticidade e segurança aos usuários.  
 A implementação de tecnologias de controle de acesso, vigilância eletrônica e sistemas automatizados de pagamento visa otimizar a gestão operacional, reduzir falhas humanas e aumentar a satisfação dos clientes.  
