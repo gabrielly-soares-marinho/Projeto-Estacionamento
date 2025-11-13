@@ -1,6 +1,8 @@
 # Diagrama de Problemas e Soluções — Estacionamento
 
-![Diagrama Estacionamento](images/diagrama-estacionamento.png)
+<p>
+  <img src="DIAGRAMA.png" alt="Diagrama Estacionamento" width="600">
+</p>
 
 ## Descrição
 Este repositório contém o diagrama de causa e efeito relacionado à operação de um estacionamento. O objetivo do diagrama é identificar problemas recorrentes, seus impactos e propor soluções tecnológicas para melhorar a eficiência operacional e a experiência dos clientes.
