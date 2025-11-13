@@ -1,5 +1,15 @@
 # 🚗 Estacionamento Inteligente – Termo de Abertura do Projeto (TAP)
 
+## 👩‍💻 Integrantes do Projeto
+
+| Nome                          | RA        |
+|-------------------------------|-----------|
+| Emilly Silva Eduardo Pereira  | 2403751   |
+| Gabrielly Soares Marinho      | 2403430   |
+| Maurício Monteiro Filho       | 2302967   |
+
+---
+
 ## 📌 1. Justificativa do Projeto
 O projeto de modernização do estacionamento tem como objetivo oferecer maior conforto, praticidade e segurança aos usuários.  
 A implementação de tecnologias de controle de acesso, vigilância eletrônica e sistemas automatizados de pagamento visa otimizar a gestão operacional, reduzir falhas humanas e aumentar a satisfação dos clientes.  
